@@ -30,10 +30,10 @@
     {
       "identity" : "swift-case-paths",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-case-paths",
+      "location" : "https://github.com/ContentsToolDev/swift-case-paths",
       "state" : {
-        "revision" : "e593aba2c6222daad7c4f2732a431eed2c09bb07",
-        "version" : "1.3.0"
+        "branch" : "main",
+        "revision" : "0bf20c27f9621d3c5881a54ebb3bdc54ab6fd8dd"
       }
     },
     {
@@ -75,10 +75,10 @@
     {
       "identity" : "swift-dependencies",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-dependencies",
+      "location" : "https://github.com/ContentsToolDev/swift-dependencies",
       "state" : {
-        "revision" : "c31b1445c4fae49e6fdb75496b895a3653f6aefc",
-        "version" : "1.1.5"
+        "branch" : "main",
+        "revision" : "8cffa568e7326dde5ee43e8278fdf3ea6aa85ae9"
       }
     },
     {
@@ -111,46 +111,46 @@
     {
       "identity" : "swift-macro-testing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-macro-testing",
+      "location" : "https://github.com/ContentsToolDev/swift-macro-testing",
       "state" : {
-        "revision" : "10dcef36314ddfea6f60442169b0b320204cbd35",
-        "version" : "0.2.2"
+        "branch" : "main",
+        "revision" : "d69971f15a6f6929420748fdce0fc736a1b4b206"
       }
     },
     {
       "identity" : "swift-perception",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-perception",
+      "location" : "https://github.com/ContentsToolDev/swift-perception",
       "state" : {
-        "revision" : "42240120b2a8797595433288ab4118f8042214c3",
-        "version" : "1.1.1"
+        "branch" : "main",
+        "revision" : "ad017752a899152cef34b175eb6d7adf31a1e023"
       }
     },
     {
       "identity" : "swift-snapshot-testing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
+      "location" : "https://github.com/ContentsToolDev/swift-snapshot-testing",
       "state" : {
-        "revision" : "59b663f68e69f27a87b45de48cb63264b8194605",
-        "version" : "1.15.1"
+        "branch" : "main",
+        "revision" : "49a8f63027e8383dfd47d19258fdff7449e86644"
       }
     },
     {
-      "identity" : "swift-syntax",
+      "identity" : "swift-syntax-xcframeworks",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-syntax",
+      "location" : "https://github.com/ContentsToolDev/swift-syntax-xcframeworks",
       "state" : {
-        "revision" : "6ad4ea24b01559dde0773e3d091f1b9e36175036",
-        "version" : "509.0.2"
+        "branch" : "main",
+        "revision" : "fb8e587d8a85e4fdfed67949d22ddedfc16748d5"
       }
     },
     {
       "identity" : "swiftui-navigation",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swiftui-navigation",
+      "location" : "https://github.com/ContentsToolDev/swiftui-navigation",
       "state" : {
-        "revision" : "78f9d72cf667adb47e2040aa373185c88c63f0dc",
-        "version" : "1.2.0"
+        "branch" : "main",
+        "revision" : "ea2951441318fdc040402321f359283458d5b887"
       }
     },
     {
